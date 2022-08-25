@@ -13,6 +13,7 @@
 		1807DF6628B80C43007535A9 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1807DF6528B80C43007535A9 /* Preview Assets.xcassets */; };
 		1807DF6E28B80D87007535A9 /* UsefulLabels.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1807DF6D28B80D87007535A9 /* UsefulLabels.swift */; };
 		1807DF7028B81252007535A9 /* H&GAccessibilityData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1807DF6F28B81252007535A9 /* H&GAccessibilityData.swift */; };
+		1807DF7228B815AD007535A9 /* ValuesControls.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1807DF7128B815AD007535A9 /* ValuesControls.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +24,7 @@
 		1807DF6528B80C43007535A9 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		1807DF6D28B80D87007535A9 /* UsefulLabels.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UsefulLabels.swift; sourceTree = "<group>"; };
 		1807DF6F28B81252007535A9 /* H&GAccessibilityData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "H&GAccessibilityData.swift"; sourceTree = "<group>"; };
+		1807DF7128B815AD007535A9 /* ValuesControls.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ValuesControls.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +79,7 @@
 			children = (
 				1807DF6D28B80D87007535A9 /* UsefulLabels.swift */,
 				1807DF6F28B81252007535A9 /* H&GAccessibilityData.swift */,
+				1807DF7128B815AD007535A9 /* ValuesControls.swift */,
 			);
 			path = exercises;
 			sourceTree = "<group>";
@@ -152,6 +155,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				1807DF7028B81252007535A9 /* H&GAccessibilityData.swift in Sources */,
+				1807DF7228B815AD007535A9 /* ValuesControls.swift in Sources */,
 				1807DF6128B80C41007535A9 /* ContentView.swift in Sources */,
 				1807DF5F28B80C41007535A9 /* AccessibilityAppApp.swift in Sources */,
 				1807DF6E28B80D87007535A9 /* UsefulLabels.swift in Sources */,
